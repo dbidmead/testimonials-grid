@@ -59,7 +59,7 @@ body {
   background-image: url("./images/bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-size: auto;
-  background-position: top right max(10%, 20%);
+  background-position: top right 20%;
 }
 
 .navy {
